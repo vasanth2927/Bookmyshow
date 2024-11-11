@@ -3,7 +3,7 @@ class A{
 public static void main(String[]args){
 System.out.println(hiiiii);
 System.out.rintln(hellooo);
-System.out.println("New line add");
+System.out.println("New line add print statement");
 }
 
 }
